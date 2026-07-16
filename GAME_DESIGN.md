@@ -337,8 +337,26 @@ design the heart of the game. Guiding notes:
   servers). Squad size TBD, but the witness system wants ≥2 souls per run
   to shine; solo remains valid (surviving an encounter is your own
   testimony). Likely sweet spot to playtest: 3–6.
-- Maze generation: **procedural, handcrafted, or handcrafted pieces
-  procedurally assembled**? Does the maze shift between (or during) runs?
+- ~~Maze generation: procedural, handcrafted, or handcrafted pieces
+  procedurally assembled?~~ **RESOLVED (direction):** **less maze, more
+  linear** — and the space is **impossible / non-Euclidean**. "The maze"
+  stays as the in-fiction name souls use, but structurally a run is a
+  mostly-linear chain of garden rooms whose geometry doesn't add up:
+  doors that can't lead where they lead, paths longer than the garden
+  containing them, no climbing over the hedge because there is no
+  "over."
+  - **Why it wins:** art scope (build only the rooms on the path, not a
+    coherent labyrinth), Roblox tech (Doors-proven room streaming — rooms
+    never need to physically connect), lore (a limbo *should* be
+    impossible), and design control (dread can be paced room by room
+    instead of hoping players wander into it).
+  - **The return trip must survive this.** In-and-out is canon, so:
+    the same rooms re-walked in reverse (changed? darker? wrong?), or a
+    different path back that only exists once the candle is lit — in
+    non-Euclidean space, *the way back is never the way you came* is
+    diegetic. TBD, but the two-act structure stays.
+  - Handcrafted rooms, likely procedurally *ordered* — a run is a deck
+    of rooms, not a fixed corridor. Room pool + ordering rules TBD.
 - What happens to a snatched player? (Spectate, return to Refuge, become an
   echo?) Is there any permanence?
 - Session length target for a full run?
