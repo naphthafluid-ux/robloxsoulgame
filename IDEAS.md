@@ -23,12 +23,8 @@ Format: one bullet per idea, date it, no elaboration required.
   and committed. Flame color doubles as readable state at distance (blue
   = heading in, warm = carrier heading out). Question for the Wick mimic:
   which color does the false flame burn?
-- **2026-07-16 — Origin lore: the grieving father.** Normally souls wander
-  the maze until a snatcher carries them to whatever comes next — that is
-  the natural order. Someone living (a grieving inventor/occultist —
-  keep era ambiguous, folklore not sci-fi) dabbled in the afterlife to
-  pull his dead son back, and tore open the way out: the heart-flame,
-  the gates, the candle rule are an *anomaly*. Snatchers become the old
-  order closing a wound, not generic monsters. Candidate answer to the
-  locked-open "who is the greeter?" hook: **the son** — the first soul
-  who found the way back, standing at the door his father broke open.
+- ~~**2026-07-16 — Origin lore: the grieving father / the son as
+  greeter.**~~ **PROMOTED** same day to `GAME_DESIGN.md` → "The Rip and
+  the Greeter": the son is the reason limbo is torn open, half-aware,
+  saving souls in his own childish flawed way; the gate closes if he
+  ever leaves.

@@ -65,11 +65,49 @@ Why this frame earns its lock:
 
 #### Lore hooks left open (on purpose)
 
-- **Who is the greeter?** A former lost soul? Something neutral to the
-  limbo? Or — dark option — one of the snatchers wearing a kind face?
-  A community-knowledge game can dangle this mystery for a very long time.
+- ~~**Who is the greeter?**~~ — **RESOLVED** (design-side; stays a mystery
+  in-game), see "The Rip and the Greeter" below.
 - ~~**Personal candle vs. communal 5,000**~~ — **RESOLVED**, see
   "Snuffed Candles" below.
+
+### The Rip and the Greeter (origin lore — decided)
+
+Why can souls escape at all? They shouldn't be able to. The natural order
+of the limbo: souls wander the maze until a snatcher finds them and
+carries them off to whatever comes next — nonexistence, heaven, unknown.
+No gates, no candles, no way home.
+
+Then someone living — a grieving inventor/occultist (era deliberately
+ambiguous; keep it folklore, not sci-fi) — dabbled in an afterlife he did
+not understand, trying to pull his dead son back. He failed. But the
+attempt **ripped the limbo open** — and his son is the reason it stays
+open.
+
+**The greeter is the son.**
+
+- He is **half-aware** — caught between the ritual pulling him homeward
+  and the limbo holding him. He may not fully remember who he was, or
+  fully understand what he is.
+- He is trying to **save the other souls in his own childish, flawed
+  way**. The rules of the game — one candle per soul, carry it home
+  yourself, snuffed candles for the fallen — are *his* rules: a child's
+  game, built with a child's sense of fairness. This is the diegetic
+  explanation for why the limbo runs on game-logic.
+- **If he ever passed through a gate himself, the rip would close.**
+  Every escaped soul walks out through a door held open by his refusal to
+  use it. He greets each new arrival because he can never leave with them.
+- His father, on the living side, is presumably still trying to pull him
+  back — and cannot succeed without damning every other soul here.
+
+Consequences for entity design: the snatchers may understand exactly what
+he is. Take the son, and the wound closes — the old order restored. That
+makes him the true endgame stake, and makes bargainer-type entities (the
+Baba Yaga archetype) dangerous in a new way: the deal they really want
+was never with you.
+
+**Player-facing:** this is canon for *us*, a **mystery for players**. The
+community should earn it slowly — fragments in testimony, details in the
+Refuge, the greeter's slips of memory — over a very long time.
 
 ### Snuffed Candles (decided)
 
