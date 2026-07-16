@@ -34,6 +34,26 @@ One room chain + the Gardener + grab-candle-and-get-out + a bare Refuge,
 playable by two people. A friend screaming or laughing in the right place
 is the green light for further investment.
 
+## When to spend money (art, models, sound)
+
+Money follows proof; every purchase must unblock the next validation step.
+
+- **Stage 0 (now → playable slice): spend nothing.** The art direction is
+  deliberately cheap (silhouettes, fog, self-drawn scribbles); free
+  Creator Marketplace assets cover greyboxing. Fun as gray boxes = art
+  will amplify it; boring as gray boxes = art cannot save it.
+- **Stage 1 (slice is fun with friends): sound first.** This game runs on
+  audio — tells, crying, wails, the axle. Asset packs first, freelancer
+  for signature sounds later. Highest scare-per-dollar.
+- **Stage 2 (loop proven, expanding): commission models per-asset.**
+  Spec-based ("modular hedge kit: 4 corridors, 2 arches, 1 gate"), one
+  test piece before batching, via Roblox Talent Hub. Priority: garden
+  room kit → entity scribble flipbook frames (2D illustrator) →
+  character/cosmetic polish.
+- **Warnings:** avoid revenue-share deals (dispute machine for first
+  projects) — pay small flat per-asset fees; hire *assets*, not
+  *employees*.
+
 ## Rule for the whole stretch
 No new systems or lore into `GAME_DESIGN.md` until the slice exists —
 everything goes to `IDEAS.md`. Ideas invented after touching the real
