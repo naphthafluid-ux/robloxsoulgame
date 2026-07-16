@@ -145,6 +145,25 @@ Format: one bullet per idea, date it, no elaboration required.
   flat layers + bloom + fog; no true painterly blur natively, but layered
   offsets approximate it; cheap to run, and the frames can be drawn by a
   non-artist (badly drawn = more on-theme).
+- **2026-07-16 — Soul/NPC look: ghost-children, uncanny cute (completes
+  the visual language).** Players and child NPCs are **literal ghostlike
+  creatures**: soft, rounded **dark silhouettes with gently glowing
+  eyes** — mix of A Hat in Time's simplified Snatcher-style skin
+  (silhouette body, glow eyes, accessories readable as darker shapes)
+  and the twins from The Cave (pale, wide-eyed, slightly *off*). Overall
+  vibe target: **uncanny cute**, à la Little Nightmares. This completes
+  a three-part contrast: children = soft cute silhouettes; snatchers =
+  jagged neon scribbles (never confusable at any distance/lighting);
+  world = elegant indifferent garden. Cute amplifies dread
+  (vulnerability scaling). Steal Little Nightmares' other trick:
+  **oversize the world** — hedges too tall, benches to climb, fountain
+  like a lake; the garden was never built for children. Roblox notes:
+  silhouette + neon eyes trivial to build; player accessories survive as
+  darker shapes = avatar identity + future cosmetics channel (hats, eye
+  colors); glowing eyes keep teammates visible in darkness for free.
+  *(Suggestion — Claude)*: eyes/face carry composure visually — dimming,
+  flickering, welling into glowing tears as tiers drop; silent twin of
+  the audio crying (also chips at the deaf/muted accessibility gap).
 - **2026-07-16 — Refuge NPCs (much later).** Other child souls as NPCs in
   the hub — faces, small stories, maybe testimony sources. Possibly a
   single **adult** soul: someone whose candle has too little wax for the
