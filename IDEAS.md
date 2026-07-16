@@ -28,4 +28,5 @@ Format: one bullet per idea, date it, no elaboration required.
   the Greeter": limbo and snatchers are the ancient natural order; the
   professor's gate is the only new thing, built to retrieve his son and
   closing once it succeeds; the son voluntarily stays so the way out
-  remains open for everyone else, running it by his own childish rules.
+  remains open for everyone else, earnestly helping as best a child can
+  — flawed because he's a child, not because it's a game to him.

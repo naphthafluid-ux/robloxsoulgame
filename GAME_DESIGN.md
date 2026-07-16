@@ -94,10 +94,12 @@ gate into the limbo** for one purpose: to bring his dead son back.
 - He is **half-aware** — he may not fully remember who he was, or fully
   grasp what he is; but this much he understands: *as long as I don't
   leave, the way out stays open.*
-- The rules of the game — one candle per soul, carry it home yourself,
-  snuffed candles for the fallen — are *his* rules, built in his own
-  **childish, flawed way** with a child's sense of fairness. This is the
-  diegetic explanation for why the limbo runs on game-logic.
+- The rules — one candle per soul, carry it home yourself, snuffed
+  candles for the fallen — are *his* rules, but he is **not playing a
+  game**. He is earnestly **trying his best to be helpful**; the system
+  is flawed only because its maker is a child. Every rule is a sincere,
+  imperfect act of care — which is the diegetic explanation for why the
+  escape works the way it does.
 
 Consequences for entity design: the snatchers are not connected to the
 gate — they are the old order, doing what they have always done. But the
