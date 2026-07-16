@@ -40,6 +40,41 @@ goes to `IDEAS.md` (the parking lot) instead of mutating the core.
 the slice"): one maze region, one entity, the candle run, and the Refuge in
 two states (gloomy / first candle lit).
 
+### The Canon Frame (locked)
+
+The story that opens and closes the loop:
+
+- You die and arrive at the **Refuge**. Someone **welcomes you** — who they
+  are is deliberately unknown (see lore hooks below) — and explains the
+  rule: *all lost souls must do their part and collect their candle to
+  open the gate for their soul.*
+- You enter the maze, retrieve **your candle**, and bring it back.
+- Doing so **opens your gate**: by canon, you escape the limbo.
+- Escaped souls may **choose to return** and remain part of the community
+  as the game repeats — this is the in-fiction identity of returning
+  players.
+
+Why this frame earns its lock:
+
+- **Diegetic onboarding** — the tutorial *is* the welcome; new players and
+  newly-arrived souls are the same thing.
+- **The candle has personal stakes** — it is *your* candle, *your* gate,
+  not an abstract progress token.
+- **Replayability is canon** — veterans are souls who came back to help,
+  not people re-queuing.
+
+#### Lore hooks left open (on purpose)
+
+- **Who is the greeter?** A former lost soul? Something neutral to the
+  limbo? Or — dark option — one of the snatchers wearing a kind face?
+  A community-knowledge game can dangle this mystery for a very long time.
+- **Personal candle vs. communal 5,000:** if your candle opens your gate,
+  what are the candles decorating the Refuge? *(Suggestion — Claude)*:
+  when a soul escapes, **their candle stays behind, burning in the
+  Refuge** — every flame in the lobby is a child who got free. The
+  communal counter becomes a memorial of successes rather than a donation
+  meter. To accept, replace, or rework.
+
 ---
 
 ## Design Pillars
@@ -135,6 +170,9 @@ stall. Candidate pressure-release valves, to playtest:
 - One candle per run, or several smaller ones?
 - Can the candle be handed off between players (relay under pressure)?
 - What happens to a dropped candle when its carrier is snatched?
+- Since each candle is personal ("your candle, your gate" — see Canon
+  Frame), can you carry an ally's candle home for them, or must every soul
+  carry their own? (Big cooperative-design fork.)
 
 ---
 
