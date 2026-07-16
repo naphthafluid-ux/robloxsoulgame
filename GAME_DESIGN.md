@@ -102,39 +102,45 @@ gate into the limbo** for one purpose: to bring his dead son back.
   imperfect act of care — which is the diegetic explanation for why the
   escape works the way it does.
 
-#### The Cycle (decided)
+#### The Cycle (decided — lore only, never a mechanic)
 
 The gate is not powered by *your* candle — it is powered by the **previous
 soul's**. The son always holds **one candle in reserve**:
 
-- You bring your freshly lit candle home and hand it to him.
+- You bring a candle home and hand it to him.
 - He **burns the older candle he has been holding** to power the gate for
   you.
-- Your fresh candle becomes the new reserve, **awaiting the next soul**.
+- What you brought becomes the new reserve, **awaiting the next soul**.
 
-What this buys:
+**This is flavor, not systems.** The cycle is "urgent" and "there," but
+limbo-time is so big and wide it is intentionally ambiguous — **no
+freshness counters, no timers, no failure states ever arise from it.**
+It lives in the son's dialogue, e.g. at the ending as he opens the gate:
+
+> *"Lovely… it's been so long since I had a refresh in these…"*
+
+In the same spirit, **the gate is not a bookkeeper**: *bringing a candle
+is enough* — your own, or others' candles you carried home. The son's
+"one candle per soul, carry it yourself" rules are how a child explains
+the system, not how the game enforces it.
+
+What the lore still quietly carries:
 
 - **Every escape is a debt to a stranger.** You go home on the flame of a
-  child you never met, and your candle sends home the next one. The
-  community pillar becomes literal physics.
-- **"Less fresh than yours" gives the cycle urgency.** The held candle
-  decays in limbo — the gate needs recency, so escapes must keep
-  happening; no stockpiling. (Dovetails with the parked "two flames"
-  idea: the warm living flame fades over time in limbo.)
-- **The first escape:** by his own rule, the very first stranger went
-  home on **the son's own candle**. He didn't merely refuse to leave —
-  he spent his soul's candle to start the cycle, and can no longer leave
+  child you never met, and what you brought sends home the next one.
+- **The first escape:** by his own telling, the very first stranger went
+  home on **the son's own candle** — he didn't merely refuse to leave, he
+  spent his soul's candle to start the cycle, and could no longer leave
   even if he wanted to. *(Suggestion — Claude)*: since snatchers judge
   souls by their candles, a boy with **no candle at all** may be
   illegible to them — answering why no snatcher has ever simply taken
   the greeter.
 
-Open tension to reconcile: the Refuge memorial counted escaped souls'
-candles left burning, but fresh candles now enter the cycle instead of
-staying on display. *(Suggestion — Claude)*: burning a candle in the gate
-consumes the **wax** but the **flame** survives and settles in the
-Refuge — each escape still adds one flame; the memorial's meaning is
-unchanged, only its origin.
+One design guard to settle later (mechanics-side, not lore): if "any
+candle counts," can a run be completed by grabbing a discarded stub near
+the entrance without ever reaching the center? Probably wants a soft
+answer (the son only sends you through for a *worthy* light, or found
+stubs feed the Refuge but not the gate) — TBD, low priority.
 
 Consequences for entity design: the snatchers are not connected to the
 gate — they are the old order, doing what they have always done. But the
