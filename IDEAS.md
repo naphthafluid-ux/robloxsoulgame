@@ -30,3 +30,8 @@ Format: one bullet per idea, date it, no elaboration required.
   closing once it succeeds; the son voluntarily stays so the way out
   remains open for everyone else, earnestly helping as best a child can
   — flawed because he's a child, not because it's a game to him.
+- **2026-07-16 — Refuge NPCs (much later).** Other child souls as NPCs in
+  the hub — faces, small stories, maybe testimony sources. Possibly a
+  single **adult** soul: someone whose candle has too little wax for the
+  gate to ever take them, who stays in the Refuge anyway. Post-slice,
+  post-launch material.

@@ -110,6 +110,23 @@ really wants was never with you. And a snatcher taking the son *out* of
 limbo entirely would leave the professor holding a gate open for a child
 who is no longer there.
 
+#### Soul-candles: why only children (decided)
+
+Every human has a candle — it *is* their soul — and it **melts down as
+they age**. Wax is unlived life. The professor's gate works by harnessing
+the energy of what remains, and by the teenage years there is already too
+little wax left: the gate cannot pull an adult, or even a teenager,
+through. Children carry the most unlived life, so **only children's souls
+can escape**.
+
+- This grounds the locked fantasy ("you are a lost child's soul") in the
+  cosmology instead of leaving it arbitrary.
+- It unifies the game's imagery: soul-candles, snuffed candles, wax
+  pools — the limbo speaks entirely in wax and flame because souls *are*
+  candles.
+- Open question: do older souls exist in the limbo — arrivals the gate
+  can never take? (See `IDEAS.md`: hub NPCs, possibly an adult.)
+
 **Player-facing:** this is canon for *us*, a **mystery for players**. The
 community should earn it slowly — fragments in testimony, details in the
 Refuge, the greeter's slips of memory — over a very long time.
