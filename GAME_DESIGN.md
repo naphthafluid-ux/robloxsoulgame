@@ -91,10 +91,33 @@ by others.
   their candle" becomes a real mid-run decision — risk against
   remembrance and knowledge.
 
+**Inventory rule (decided):** each candle — lit or snuffed — takes **one
+inventory slot**. Carrying the dead is a real capacity decision, not free
+loot.
+
+### Rekindling (revive — decided, implementation open)
+
+If a snatched player **has not yet left the lobby** (still connected,
+presumably spectating), their snuffed candle can be **rekindled** to bring
+their soul back. Souls that leave are truly gone — this keeps the memorial
+honest.
+
+- **Rekindle source — open.** Candidates: passing flame from a lit candle
+  (vigil-style, soul to soul — makes the candle-bearer even more precious),
+  shrines/braziers in the maze, or only at the center flame. Mid-run, most
+  players haven't retrieved their own candle yet, so the source choice
+  shapes the whole rescue play.
+- **Testimony interaction:** a rescued soul is the *best possible witness*
+  — the victim themselves made it back. Rescue upgrades the knowledge
+  system rather than bypassing it.
+- **Tuning risk:** death becoming too cheap. Expect limits — a rekindle
+  time window, one revive per soul per run, or a cost.
+- A rekindled candle never reaches the memorial counter (they came back).
+
 Open mechanical questions:
 
-- Does carrying a snuffed candle cost anything (a hands/slot limit, speed,
-  attraction)? How many can one soul carry?
+- How many snuffed candles can one soul carry beyond the slot rule —
+  and does carrying them attract anything?
 - If nobody recovers a snuffed candle, does it persist in the maze across
   runs (a limbo littered with old failures), or is it lost when the run
   ends?
@@ -153,6 +176,12 @@ stall. Candidate pressure-release valves, to playtest:
   snuffed candle *is* the echo).
 - Records could reveal progressively: silhouette → name → behavior →
   weaknesses, over multiple delivered testimonies.
+- **Wax pools (candidate):** Dark Souls-style ambient death markers,
+  reskinned for our fiction — where many candles have been snuffed,
+  melted wax accumulates in pale, layered stains: "many flames went out
+  here." No blood needed (fiction- and rating-appropriate). Persisted
+  across servers; very feasible on Roblox. Distinct from recoverable
+  snuffed candles — wax is permanent ambient data, not an object.
 
 ### Open questions
 - What mechanically counts as "witnessing"? (Proximity? Line of sight?
@@ -221,8 +250,12 @@ design the heart of the game. Guiding notes:
 
 ## Structure & Session Questions (unresolved)
 
-- Do players enter the maze **solo, in squads, or staggered** into a shared
-  maze instance?
+- ~~Do players enter the maze solo, in squads, or staggered?~~
+  **RESOLVED:** Pressure-style — a persistent social **Refuge** lobby
+  funnels small groups into **instanced maze runs** (Roblox reserved
+  servers). Squad size TBD, but the witness system wants ≥2 souls per run
+  to shine; solo remains valid (surviving an encounter is your own
+  testimony). Likely sweet spot to playtest: 3–6.
 - Maze generation: **procedural, handcrafted, or handcrafted pieces
   procedurally assembled**? Does the maze shift between (or during) runs?
 - What happens to a snatched player? (Spectate, return to Refuge, become an
