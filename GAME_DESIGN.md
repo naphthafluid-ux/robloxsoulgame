@@ -22,6 +22,26 @@ community learns nothing.
 
 ---
 
+## What Is Locked (v1)
+
+Only four things are set in stone. Every new idea is tested against them:
+*does it break one of these?* If no, it's fair game to explore. If yes, it
+goes to `IDEAS.md` (the parking lot) instead of mutating the core.
+
+1. **The fantasy:** you are a lost child's soul that must go into the maze
+   and make it back.
+2. **The core loop:** Refuge → maze → center → return → deliver candle
+   and testimony.
+3. **The witness rule:** knowledge only exists if a living witness carries
+   it home.
+4. **The communal Refuge:** progress is collective and visible.
+
+**The vertical slice** (the real first project — everything else is "after
+the slice"): one maze region, one entity, the candle run, and the Refuge in
+two states (gloomy / first candle lit).
+
+---
+
 ## Design Pillars
 
 1. **Someone has to make it back.** Information about entities only enters
