@@ -89,6 +89,21 @@ Format: one bullet per idea, date it, no elaboration required.
   steady when composed, erratic when terrified, which degrades your own
   telegraph reading (can't tell the flame's danger-flinch from your
   terror-flicker).
+- **2026-07-16 — Manual breathing (composure recovery).** The limbo
+  forces manual breathing — souls don't *need* breath; breathing is a
+  remembered self-soothing ritual from being alive. To recover composure
+  past the one-tier passive cap, you **match a breathing rhythm**: at low
+  tiers the pattern starts as **hyperventilation** — fast, shallow, hard
+  to match — and success means progressively *slowing* it down.
+  Difficulty scales with terror automatically. It's a deliberate act:
+  you stop, you're occupied, you're vulnerable — and it's **audible**
+  (gasps and shaky breath broadcast like crying), so finding a safe
+  place to breathe is a real decision. **Group version:** matching a
+  composed teammate's steady rhythm is easier than finding your own —
+  borrowing someone's calm (absorbs the "regen near other souls'
+  flames" candidate). Mobile-friendly (tap/hold rhythm). Caution:
+  reserve the minigame for climbing *tiers*; passive recovery handles
+  small chips, or it wears out fast.
 - **2026-07-16 — Refuge NPCs (much later).** Other child souls as NPCs in
   the hub — faces, small stories, maybe testimony sources. Possibly a
   single **adult** soul: someone whose candle has too little wax for the
