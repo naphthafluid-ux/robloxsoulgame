@@ -15,14 +15,26 @@ Format: one bullet per idea, date it, no elaboration required.
   there turns the flame warm/normal — "connecting back to life" — and
   that's what you carry home. Reframes the objective as retrieving a
   *flame*, not an object; loop and locked canon survive intact.
-- **2026-07-16 — Shrouding (stealth).** You can **shroud** (cup/hood) the
-  blue flame to hide, at the cost of your light. Never called "snuffing" —
-  that word stays reserved for death, so the memorial symbolism is
-  untouched. Warm (living) flame likely can't be shrouded safely, keeping
-  the return trip costly: inbound = dim but hideable, outbound = bright
-  and committed. Flame color doubles as readable state at distance (blue
-  = heading in, warm = carrier heading out). Question for the Wick mimic:
-  which color does the false flame burn?
+- ~~**2026-07-16 — Shrouding (stealth).**~~ **SUPERSEDED** same day by
+  the light-source design below: pocketing your own candle replaces
+  shrouding as the stealth trade. Still true: "snuffed" stays reserved
+  for death; flame color reads as state at distance; the Wick question
+  (which color does the false flame burn?) stands.
+- **2026-07-16 — Light sources (refines the two-flame idea).** Your own
+  candle is the **last-resort blue flame**: it can never be extinguished,
+  and can be **pocketed freely** — going dark to hide is always available
+  and costs you your light, nothing else. The *main* light comes from
+  **discarded shorter candles of other souls** found around the maze,
+  carried torch-like. They burn brighter but: lighting one **releases its
+  owner's wail** — the last gasp of the human it belonged to — so taking
+  better light announces you (and makes you listen to them). These *can*
+  be extinguished, by you or perhaps by the maze. Their wax color (see
+  sin lore in `GAME_DESIGN.md`) may matter: what does carrying a black
+  candle attract?
+- **2026-07-16 — Open question from the above:** can you light a fallen
+  *teammate's* snuffed candle as a torch — and is its wail their last
+  gasp? Ties light, memorial, and testimony into one grim decision; needs
+  care so it doesn't cheapen the snuffed-candle memorial rule.
 - ~~**2026-07-16 — Origin lore: the grieving father / the son as
   greeter.**~~ **PROMOTED** same day to `GAME_DESIGN.md` → "The Rip and
   the Greeter": limbo and snatchers are the ancient natural order; the

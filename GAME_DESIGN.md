@@ -127,6 +127,21 @@ can escape**.
 - Open question: do older souls exist in the limbo — arrivals the gate
   can never take? (See `IDEAS.md`: hub NPCs, possibly an adult.)
 
+**Wax color is sin (decided).** A candle starts **pure white** — a
+child's — and darkens with the life's sins, down to pure black. Two axes,
+one object: **age shortens the candle, sin darkens it**. A soul's whole
+life is legible at a glance from the stub it left behind.
+
+- **The limbo and its snatchers judge by the candle.** What exactly each
+  entity does with that judgment is an entity-design axis (prioritize the
+  dark? covet the pure? distrust what doesn't match its bearer?) — TBD
+  per entity.
+- Players' candles are white, or nearly — which may itself be part of
+  why the snatchers want children so badly.
+- The maze is littered with the **discarded candles of souls that came
+  before** — short, darkened stubs the gate could never have taken.
+  These double as the game's found light sources (see `IDEAS.md`).
+
 **Player-facing:** this is canon for *us*, a **mystery for players**. The
 community should earn it slowly — fragments in testimony, details in the
 Refuge, the greeter's slips of memory — over a very long time.
