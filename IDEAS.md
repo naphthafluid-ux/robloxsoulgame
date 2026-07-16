@@ -104,6 +104,27 @@ Format: one bullet per idea, date it, no elaboration required.
   flames" candidate). Mobile-friendly (tap/hold rhythm). Caution:
   reserve the minigame for climbing *tiers*; passive recovery handles
   small chips, or it wears out fast.
+- **2026-07-16 — Entity visual direction: colored silhouettes, smoke,
+  freeze-frames, the dark comes with them.** Snatchers are otherworldly —
+  not exactly human, not exactly creature: **vague shapes shrouded in
+  dark mist**, read mostly as **silhouettes of different colors**, moving
+  like **freeze-frames snipped together** (here, then *here* — no travel
+  between; stop-motion stutter, uncanny and technically *cheaper* than
+  smooth pursuit). Death = Pressure-style mist-shrouded jumpscare with a
+  brief scary image. **When one enters, the area darkens hard** — the
+  darkness isn't ambience, it's the encounter starting; the room you just
+  crossed becomes a memory test (attentive players pre-memorize exits).
+  Interlocks with existing parked systems: signature color per entity =
+  telegraph layer 4 (identification) for free, and "which color is which
+  snatcher" is natural testimony knowledge; when the dark falls, keep
+  your flame out (see a little, be seen) vs pocket it (blind, hidden,
+  navigate on recall) — original panic decision from pieces already
+  designed. *(Suggestion — Claude)*: unifying image — souls are **flame
+  and wax**, snatchers are **smoke**; the mist shrouding them isn't
+  weather, it's *them*. Flame vs smoke as the game's two-word visual
+  thesis. Production note: silhouette + mist + darkness is the genre's
+  great equalizer on Roblox — scarier *and* cheaper than detailed
+  monsters.
 - **2026-07-16 — Refuge NPCs (much later).** Other child souls as NPCs in
   the hub — faces, small stories, maybe testimony sources. Possibly a
   single **adult** soul: someone whose candle has too little wax for the
