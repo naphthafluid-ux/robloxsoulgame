@@ -43,6 +43,19 @@ Format: one bullet per idea, date it, no elaboration required.
   closing once it succeeds; the son voluntarily stays so the way out
   remains open for everyone else, earnestly helping as best a child can
   — flawed because he's a child, not because it's a game to him.
+- **2026-07-16 — Universal tell (layered telegraph, anti-flicker).**
+  Replace the genre's light-flicker with a far→near diegetic gradient:
+  1. **the garden goes quiet** (birdsong/insects stop — far warning;
+  silence is the oldest dread signal and nearly unused in the genre);
+  2. **crows scatter** (mid warning + direction — lore twist: carrion
+  birds don't fear the dead, so players never disturb them; only
+  snatchers do, which is why the tell is trustworthy);
+  3. **your flame flinches** (near warning + direction — the blue
+  soul-flame gutters, burns low, *leans away* from what approaches; your
+  soul is afraid before you are);
+  4. entity-specific tell (shears, axle…) for identification.
+  Interlock: pocketing your candle to hide also pockets your danger
+  sense — stealth costs early warning, no tutorial text needed.
 - **2026-07-16 — Refuge NPCs (much later).** Other child souls as NPCs in
   the hub — faces, small stories, maybe testimony sources. Possibly a
   single **adult** soul: someone whose candle has too little wax for the
