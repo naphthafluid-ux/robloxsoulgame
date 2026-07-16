@@ -68,12 +68,38 @@ Why this frame earns its lock:
 - **Who is the greeter?** A former lost soul? Something neutral to the
   limbo? Or — dark option — one of the snatchers wearing a kind face?
   A community-knowledge game can dangle this mystery for a very long time.
-- **Personal candle vs. communal 5,000:** if your candle opens your gate,
-  what are the candles decorating the Refuge? *(Suggestion — Claude)*:
-  when a soul escapes, **their candle stays behind, burning in the
-  Refuge** — every flame in the lobby is a child who got free. The
-  communal counter becomes a memorial of successes rather than a donation
-  meter. To accept, replace, or rework.
+- ~~**Personal candle vs. communal 5,000**~~ — **RESOLVED**, see
+  "Snuffed Candles" below.
+
+### Snuffed Candles (decided)
+
+When a soul **dies or leaves**, their candle is **snuffed out**. A lit
+candle can only ever be carried by its own soul — nobody can open your
+gate for you. But snuffed candles can be **recovered and carried home**
+by others.
+
+- **Two counters in the Refuge:** lit candles (souls who escaped) and
+  snuffed candles (souls who were taken) — an actual memorial. The lobby
+  tells both halves of the story: warmth for the ones who made it, dark
+  candles for the ones who didn't.
+- **Disconnects handled in-fiction:** a player who leaves mid-run simply
+  has their flame go out, same as death.
+- **Tie-in with the witness system:** the snuffed candle is the *physical
+  vessel* of testimony. Candidate rule (to tune): witnessing a snatch
+  yields a fragment; recovering and returning the victim's snuffed candle
+  delivers the full testimony of how they died. "We have to go back for
+  their candle" becomes a real mid-run decision — risk against
+  remembrance and knowledge.
+
+Open mechanical questions:
+
+- Does carrying a snuffed candle cost anything (a hands/slot limit, speed,
+  attraction)? How many can one soul carry?
+- If nobody recovers a snuffed candle, does it persist in the maze across
+  runs (a limbo littered with old failures), or is it lost when the run
+  ends?
+- Does the memorial counter *do* anything (unlocks, protections, lore
+  reveals) or is remembrance itself the reward?
 
 ---
 
@@ -120,10 +146,11 @@ stall. Candidate pressure-release valves, to playtest:
 
 - **Partial witnesses:** seeing an encounter from afar yields a fragment;
   a close witness yields more. Records assemble from fragments.
-- *(Suggestion — Claude)* **Echoes:** a snatched soul leaves a faint echo at
-  the site of their death — a diegetic warning that later runners can find,
-  carrying a sliver of information home on the victim's behalf. Fits the
-  folklore tone (will-o'-wisps, ghost lights).
+- **Snuffed candles** (decided — see the locked section): the victim's
+  extinguished candle remains at the death site and can be recovered and
+  carried home as the physical vessel of full testimony. This largely
+  supersedes the earlier "echoes" suggestion, or the two can merge (the
+  snuffed candle *is* the echo).
 - Records could reveal progressively: silhouette → name → behavior →
   weaknesses, over multiple delivered testimonies.
 
@@ -170,9 +197,10 @@ stall. Candidate pressure-release valves, to playtest:
 - One candle per run, or several smaller ones?
 - Can the candle be handed off between players (relay under pressure)?
 - What happens to a dropped candle when its carrier is snatched?
-- Since each candle is personal ("your candle, your gate" — see Canon
-  Frame), can you carry an ally's candle home for them, or must every soul
-  carry their own? (Big cooperative-design fork.)
+- ~~Can you carry an ally's candle home for them?~~ **RESOLVED:** no — a
+  lit candle answers only to its own soul; on death or leaving it is
+  snuffed, and only the *snuffed* candle can be carried home (memorial +
+  testimony). See "Snuffed Candles" in the locked section.
 
 ---
 
