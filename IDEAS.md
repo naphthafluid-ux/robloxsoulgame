@@ -56,6 +56,16 @@ Format: one bullet per idea, date it, no elaboration required.
   4. entity-specific tell (shears, axle…) for identification.
   Interlock: pocketing your candle to hide also pockets your danger
   sense — stealth costs early warning, no tutorial text needed.
+  **Unreliability rule (decided within the idea):** every layer is a
+  little noisy, so watching them too hard psychs you out —
+  the flame gently flickers on its own with movement and idling (a
+  *flinch* must be read against its normal restlessness); lone caws and
+  small crow disturbances happen routinely, distinct from a full wave
+  only in degree; silence sometimes falls for no reason at all.
+  Confidence comes from **stacking**: one layer is a maybe, two is a
+  warning, three is certainty — and veterans are the ones who've
+  internalized each layer's baseline noise. Paranoia is the intended
+  experience; tune noise rates so false reads stay spooky, not annoying.
 - **2026-07-16 — Refuge NPCs (much later).** Other child souls as NPCs in
   the hub — faces, small stories, maybe testimony sources. Possibly a
   single **adult** soul: someone whose candle has too little wax for the
