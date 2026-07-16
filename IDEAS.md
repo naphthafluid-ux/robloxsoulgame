@@ -125,6 +125,26 @@ Format: one bullet per idea, date it, no elaboration required.
   thesis. Production note: silhouette + mist + darkness is the genre's
   great equalizer on Roblox — scarier *and* cheaper than detailed
   monsters.
+- **2026-07-16 — Entity look refined: scribble figures (extends the
+  visual-direction entry above).** Snatchers read as **scary scribbles
+  vaguely resembling men and women** — humanoid, but drawn: jittery
+  sketch-lines in **odd faint neon colors**, blurred like smears at the
+  edge of your vision. Reference: Deadlock's Hidden King (shadow-mass
+  body, few glowing features — eyes, claw-hands) but scribblier, fainter,
+  more wrong. Animation is **"boiling lines"** (linework redraws itself
+  each frame, *Take On Me*-style) — with the freeze-frame movement the
+  whole concept is one sentence: *a drawing that keeps redrawing itself,
+  somewhere closer each time.* **Thematic jackpot:** a world of
+  children's souls where monsters look like **a child's scribble of a
+  monster** — the limbo renders fear the way children draw it; justifies
+  the art style in-fiction. Natural extension: testimony pages in the
+  Refuge *are* scribbled children's drawings — the record and the monster
+  are the same picture. Optional future mechanic (post-slice): clearest
+  in peripheral vision, dissolving under direct gaze. **Roblox
+  feasibility:** flipbook of 3–6 hand-drawn scribble frames on glowing
+  flat layers + bloom + fog; no true painterly blur natively, but layered
+  offsets approximate it; cheap to run, and the frames can be drawn by a
+  non-artist (badly drawn = more on-theme).
 - **2026-07-16 — Refuge NPCs (much later).** Other child souls as NPCs in
   the hub — faces, small stories, maybe testimony sources. Possibly a
   single **adult** soul: someone whose candle has too little wax for the
