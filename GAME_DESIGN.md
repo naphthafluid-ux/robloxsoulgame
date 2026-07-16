@@ -72,38 +72,41 @@ Why this frame earns its lock:
 
 ### The Rip and the Greeter (origin lore — decided)
 
-Why can souls escape at all? They shouldn't be able to. The natural order
-of the limbo: souls wander the maze until a snatcher finds them and
-carries them off to whatever comes next — nonexistence, heaven, unknown.
-No gates, no candles, no way home.
+**The limbo, the maze, and the snatchers are real and ancient — the
+natural order.** Souls have always wandered the maze until a snatcher
+found them and carried them off to whatever comes next — nonexistence,
+heaven, unknown. No way home. That is simply how it works, and it was
+never meant to be otherwise.
 
-Then someone living — a grieving inventor/occultist (era deliberately
-ambiguous; keep it folklore, not sci-fi) — dabbled in an afterlife he did
-not understand, trying to pull his dead son back. He failed. But the
-attempt **ripped the limbo open** — and his son is the reason it stays
-open.
+The only *new* thing is the way out. Someone living — a grieving
+professor/occultist (era deliberately ambiguous; keep it folklore, not
+sci-fi) — dabbled in an afterlife he did not understand and **tore open a
+gate into the limbo** for one purpose: to bring his dead son back.
 
-**The greeter is the son.**
+**The greeter is the son — and he refuses to go home.**
 
-- He is **half-aware** — caught between the ritual pulling him homeward
-  and the limbo holding him. He may not fully remember who he was, or
-  fully understand what he is.
-- He is trying to **save the other souls in his own childish, flawed
-  way**. The rules of the game — one candle per soul, carry it home
-  yourself, snuffed candles for the fallen — are *his* rules: a child's
-  game, built with a child's sense of fairness. This is the diegetic
-  explanation for why the limbo runs on game-logic.
-- **If he ever passed through a gate himself, the rip would close.**
-  Every escaped soul walks out through a door held open by his refusal to
-  use it. He greets each new arrival because he can never leave with them.
-- His father, on the living side, is presumably still trying to pull him
-  back — and cannot succeed without damning every other soul here.
+- The gate exists to retrieve *him*. The moment he steps through it, the
+  professor has what he wanted and **the gate closes behind him — for
+  everyone, forever**.
+- So he **voluntarily stays**, keeping his father waiting on the other
+  side, and uses the rescue built for him to free every other soul
+  instead.
+- He is **half-aware** — he may not fully remember who he was, or fully
+  grasp what he is; but this much he understands: *as long as I don't
+  leave, the way out stays open.*
+- The rules of the game — one candle per soul, carry it home yourself,
+  snuffed candles for the fallen — are *his* rules, built in his own
+  **childish, flawed way** with a child's sense of fairness. This is the
+  diegetic explanation for why the limbo runs on game-logic.
 
-Consequences for entity design: the snatchers may understand exactly what
-he is. Take the son, and the wound closes — the old order restored. That
-makes him the true endgame stake, and makes bargainer-type entities (the
-Baba Yaga archetype) dangerous in a new way: the deal they really want
-was never with you.
+Consequences for entity design: the snatchers are not connected to the
+gate — they are the old order, doing what they have always done. But the
+son is still the single point of failure: **lure or drive him through the
+gate and it closes for good**. A bargainer-type entity (the Baba Yaga
+archetype) that understands this is dangerous in a new way — the deal it
+really wants was never with you. And a snatcher taking the son *out* of
+limbo entirely would leave the professor holding a gate open for a child
+who is no longer there.
 
 **Player-facing:** this is canon for *us*, a **mystery for players**. The
 community should earn it slowly — fragments in testimony, details in the

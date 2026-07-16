@@ -25,6 +25,7 @@ Format: one bullet per idea, date it, no elaboration required.
   which color does the false flame burn?
 - ~~**2026-07-16 — Origin lore: the grieving father / the son as
   greeter.**~~ **PROMOTED** same day to `GAME_DESIGN.md` → "The Rip and
-  the Greeter": the son is the reason limbo is torn open, half-aware,
-  saving souls in his own childish flawed way; the gate closes if he
-  ever leaves.
+  the Greeter": limbo and snatchers are the ancient natural order; the
+  professor's gate is the only new thing, built to retrieve his son and
+  closing once it succeeds; the son voluntarily stays so the way out
+  remains open for everyone else, running it by his own childish rules.
