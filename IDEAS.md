@@ -66,6 +66,22 @@ Format: one bullet per idea, date it, no elaboration required.
   warning, three is certainty — and veterans are the ones who've
   internalized each layer's baseline noise. Paranoia is the intended
   experience; tune noise rates so false reads stay spooky, not annoying.
+- **2026-07-16 — Composure (health system).** Merge the two candidate
+  models: a legible **100→0 HP skeleton**, fictionally **composure** —
+  souls have no flesh; damage is fear. **Minor entities are softeners**
+  (FNAF-3-phantom role): they can't take you, only jumpscare-chip
+  composure and position you badly for the things that can. **Major
+  snatchers detect you more easily the lower you are** (terror scales
+  their find-radius) — so minors are never skippable noise for veterans.
+  **0 = broken, not dead:** sobbing, unhideable, flame flaring — marked
+  for the next snatcher; death itself always arrives *by snatcher*,
+  keeping every death witnessable (testimony system intact). Diegetic
+  meter: **the flame is the bar** — steady when composed, erratic when
+  terrified, which degrades your own telegraph reading (can't tell the
+  flame's danger-flinch from its terror-flicker). Open: recovery —
+  candidates: warmth, rest spots, **composure regen near other souls'
+  flames** (community pillar as survival mechanic, stick-together
+  incentive without a tether).
 - **2026-07-16 — Refuge NPCs (much later).** Other child souls as NPCs in
   the hub — faces, small stories, maybe testimony sources. Possibly a
   single **adult** soul: someone whose candle has too little wax for the
