@@ -31,10 +31,11 @@ Format: one bullet per idea, date it, no elaboration required.
   be extinguished, by you or perhaps by the maze. Their wax color (see
   sin lore in `GAME_DESIGN.md`) may matter: what does carrying a black
   candle attract?
-- **2026-07-16 — Open question from the above:** can you light a fallen
-  *teammate's* snuffed candle as a torch — and is its wail their last
-  gasp? Ties light, memorial, and testimony into one grim decision; needs
-  care so it doesn't cheapen the snuffed-candle memorial rule.
+- ~~**2026-07-16 — Open question from the above:** can you light a fallen
+  *teammate's* snuffed candle as a torch?~~ **RESOLVED** same day, see
+  `GAME_DESIGN.md` → Rekindling: a child's candle can never be a torch —
+  lighting it returns the blue flame and **brings them back**. Only the
+  discarded candles of older souls burn (and wail) as torchlight.
 - ~~**2026-07-16 — Origin lore: the grieving father / the son as
   greeter.**~~ **PROMOTED** same day to `GAME_DESIGN.md` → "The Rip and
   the Greeter": limbo and snatchers are the ancient natural order; the

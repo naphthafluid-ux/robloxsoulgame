@@ -177,11 +177,17 @@ presumably spectating), their snuffed candle can be **rekindled** to bring
 their soul back. Souls that leave are truly gone — this keeps the memorial
 honest.
 
-- **Rekindle source — open.** Candidates: passing flame from a lit candle
-  (vigil-style, soul to soul — makes the candle-bearer even more precious),
-  shrines/braziers in the maze, or only at the center flame. Mid-run, most
-  players haven't retrieved their own candle yet, so the source choice
-  shapes the whole rescue play.
+- **The form (decided):** rekindling means **lighting the child's candle
+  so it takes the blue flame again** — the soul flame returning to its
+  wick is the life returning. A child's candle can never be burned as a
+  torch: light it, and what you get is not light but *them*.
+- **The method — open.** It requires a **specific, deliberate
+  procedure** — not an innate "spirit power" every soul just has.
+  What exactly, TBD. Candidates: passing flame from a lit candle
+  (vigil-style, soul to soul — makes the candle-bearer even more
+  precious), shrines/braziers in the maze, or only at the center flame.
+  Mid-run, most players haven't retrieved their own candle yet, so the
+  choice shapes the whole rescue play.
 - **Testimony interaction:** a rescued soul is the *best possible witness*
   — the victim themselves made it back. Rescue upgrades the knowledge
   system rather than bypassing it.
