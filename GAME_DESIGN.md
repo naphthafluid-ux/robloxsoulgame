@@ -49,7 +49,8 @@ The story that opens and closes the loop:
   rule: *all lost souls must do their part and collect their candle to
   open the gate for their soul.*
 - You enter the maze, retrieve **your candle**, and bring it back.
-- Doing so **opens your gate**: by canon, you escape the limbo.
+- Doing so **opens your gate**: by canon, you escape the limbo. (How the
+  gate is actually powered: see "The Cycle" under origin lore.)
 - Escaped souls may **choose to return** and remain part of the community
   as the game repeats — this is the in-fiction identity of returning
   players.
@@ -100,6 +101,40 @@ gate into the limbo** for one purpose: to bring his dead son back.
   is flawed only because its maker is a child. Every rule is a sincere,
   imperfect act of care — which is the diegetic explanation for why the
   escape works the way it does.
+
+#### The Cycle (decided)
+
+The gate is not powered by *your* candle — it is powered by the **previous
+soul's**. The son always holds **one candle in reserve**:
+
+- You bring your freshly lit candle home and hand it to him.
+- He **burns the older candle he has been holding** to power the gate for
+  you.
+- Your fresh candle becomes the new reserve, **awaiting the next soul**.
+
+What this buys:
+
+- **Every escape is a debt to a stranger.** You go home on the flame of a
+  child you never met, and your candle sends home the next one. The
+  community pillar becomes literal physics.
+- **"Less fresh than yours" gives the cycle urgency.** The held candle
+  decays in limbo — the gate needs recency, so escapes must keep
+  happening; no stockpiling. (Dovetails with the parked "two flames"
+  idea: the warm living flame fades over time in limbo.)
+- **The first escape:** by his own rule, the very first stranger went
+  home on **the son's own candle**. He didn't merely refuse to leave —
+  he spent his soul's candle to start the cycle, and can no longer leave
+  even if he wanted to. *(Suggestion — Claude)*: since snatchers judge
+  souls by their candles, a boy with **no candle at all** may be
+  illegible to them — answering why no snatcher has ever simply taken
+  the greeter.
+
+Open tension to reconcile: the Refuge memorial counted escaped souls'
+candles left burning, but fresh candles now enter the cycle instead of
+staying on display. *(Suggestion — Claude)*: burning a candle in the gate
+consumes the **wax** but the **flame** survives and settles in the
+Refuge — each escape still adds one flame; the memorial's meaning is
+unchanged, only its origin.
 
 Consequences for entity design: the snatchers are not connected to the
 gate — they are the old order, doing what they have always done. But the
